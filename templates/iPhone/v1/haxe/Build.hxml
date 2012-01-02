@@ -1,6 +1,0 @@
--main IPhoneMain
-#Replace the following line with a path to your favourite source code
--cp ../../../../
--cp ../../../../tests/tools
--cp src
--D iphone

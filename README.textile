@@ -1,0 +1,5 @@
+# Current HxGL status
+
+The HxGL project is not dead, in fact it's heavily active. The code as temporarily been relocated to a private repo due to the project being in a highly unstable state. It will return soon, once it has become more structured and ready for usage.
+
+--Matthew Spencer
